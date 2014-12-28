@@ -13,6 +13,7 @@ Extract metadata such as microdata, OGP, RDFs from html for machine readability.
 - Pinterest Rich Pin
 - `<meta>`s
 - Followable `<a>`s
+- Postable `<form>`s
 - Favicon URL
 - Feed URL
 - Sitemap URL if exists
