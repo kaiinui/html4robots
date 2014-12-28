@@ -14,6 +14,7 @@ Extract metadata such as microdata, OGP, RDFs from html for machine readability.
 - Followable `<a>`s
 - Favicon URL
 - Feed URL
+- Sitemap URL if exists
 - Twitter search result (optional)
 - Pinterest search result (optional)
 - Facebook like count (optional)
